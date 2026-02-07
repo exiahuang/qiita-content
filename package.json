@@ -1,0 +1,16 @@
+{
+  "name": "qiita-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "qiita preview",
+    "publish": "qiita publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.7.0"
+  }
+}
