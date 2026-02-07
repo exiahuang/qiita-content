@@ -2,12 +2,12 @@
 title: Salesforce開発の生産性を最大化する拡張機能「SFDC Inspect」
 tags:
   - Salesforce
+  - 開発ツール
   - ChromeExtension
   - 生産性向上
-  - 開発ツール
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-07T13:43:40+09:00'
+id: ac4db07845d840a5152d
 organization_url_name: null
 slide: false
 ignorePublish: false
