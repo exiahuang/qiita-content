@@ -36,9 +36,9 @@ Salesforceの開発者やシステム管理者として、日々「あっちの�
 * **Language-aware Replies:** アプリ言語設定に合わせてAI回答言語を自動調整。
 * **Easy Setup:** 一度設定すれば、AI対応モジュールで再利用可能。
 
-![sfdc-ai-inspect-agent](images/sfdc-ai-inspect/sfdc-ai-inspect-agent.gif)
+![sfdc-ai-inspect-agent](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-inspect-agent.gif?raw=true)
 
-![sfdc-ai-run-test-class](images/sfdc-ai-inspect/sfdc-ai-run-test-class.gif)
+![sfdc-ai-run-test-class](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-run-test-class.gif?raw=true)
 
 ### 2. 📊 Data Expert
 **データ管理をAIで加速する、Excelライクな実務UI。**
@@ -48,7 +48,7 @@ Salesforceの開発者やシステム管理者として、日々「あっちの�
 * **AI to SOQL:** 自然言語からSOQLを生成。SOQL非習熟メンバーでも安全・高速に保守可能。
 * **Export:** 結果をCSVで出力して共有・分析。
 
-![sfdc-ai-soql](images/sfdc-ai-inspect/sfdc-ai-soql.gif)
+![sfdc-ai-soql](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-soql.gif?raw=true)
 
 ### 3. 📜 Log Expert + AI Analysis
 **ログ調査をAIで短時間化し、原因特定を支援。**
@@ -56,7 +56,7 @@ Salesforceの開発者やシステム管理者として、日々「あっちの�
 * **Advanced Filtering:** ユーザー、ステータス、時間など多軸で絞り込み。
 * **AI Summary:** 根本原因の候補、証拠、改善案をAIが要約。
 
-![sfdc-ai-log-analysis](images/sfdc-ai-inspect/sfdc-ai-log-analysis.gif)
+![sfdc-ai-log-analysis](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-log-analysis.gif?raw=true)
 
 ### 4. 🛠️ Architecture & Documentation
 **AIで設計把握とドキュメント生成を効率化。**
@@ -83,7 +83,7 @@ Salesforceの開発者やシステム管理者として、日々「あっちの�
 * **Fast Debugging:** リクエスト/レスポンスを1画面で確認。
 * **Practical for Daily Work:** API検証、連携確認、障害調査に最適。
 
-![sfdc-rest-api](images/sfdc-ai-inspect/sfdc-rest-api.gif)
+![sfdc-rest-api](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-rest-api.gif?raw=true)
 
 ### 8. 🕸️ ER Diagram Generator
 * **Visualize Data Models:** 選択したSalesforceオブジェクトからER図を生成。

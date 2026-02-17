@@ -36,9 +36,9 @@ As a Salesforce developer or admin, do you often find yourself thinking: "I need
 * **Language-aware Replies:** AI responses follow your configured app language.
 * **Easy Setup:** Configure once, then reuse across AI-enabled modules.
 
-![sfdc-ai-inspect-agent](images/sfdc-ai-inspect/sfdc-ai-inspect-agent.gif)
+![sfdc-ai-inspect-agent](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-inspect-agent.gif?raw=true)
 
-![sfdc-ai-run-test-class](images/sfdc-ai-inspect/sfdc-ai-run-test-class.gif)
+![sfdc-ai-run-test-class](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-run-test-class.gif?raw=true)
 
 ### 2. 📊 Data Expert
 **An Excel-like UI that accelerates data operations with AI support.**
@@ -48,7 +48,7 @@ As a Salesforce developer or admin, do you often find yourself thinking: "I need
 * **AI to SOQL:** Generate SOQL from natural language, so even teammates unfamiliar with SOQL can maintain data safely and quickly.
 * **Export:** Download results to CSV for sharing and analysis.
 
-![sfdc-ai-soql](images/sfdc-ai-inspect/sfdc-ai-soql.gif)
+![sfdc-ai-soql](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-soql.gif?raw=true)
 
 ### 3. 📜 Log Expert + AI Analysis
 **Shorten log investigations and identify root causes faster with AI.**
@@ -56,7 +56,7 @@ As a Salesforce developer or admin, do you often find yourself thinking: "I need
 * **Advanced Filtering:** Narrow logs by user, status, time, and more.
 * **AI Summary:** Let AI highlight likely root causes, supporting evidence, and remediation steps.
 
-![sfdc-ai-log-analysis](images/sfdc-ai-inspect/sfdc-ai-log-analysis.gif)
+![sfdc-ai-log-analysis](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-ai-log-analysis.gif?raw=true)
 
 ### 4. 🛠️ Architecture & Documentation
 **Use AI to understand system design and produce architecture documentation faster.**
@@ -83,7 +83,7 @@ As a Salesforce developer or admin, do you often find yourself thinking: "I need
 * **Fast Debugging:** Inspect request/response payloads in one place.
 * **Practical for Daily Work:** Great for API validation, integration checks, and troubleshooting.
 
-![sfdc-rest-api](images/sfdc-ai-inspect/sfdc-rest-api.gif)
+![sfdc-rest-api](https://github.com/exiahuang/qiita-content/blob/main/public/images/sfdc-ai-inspect/sfdc-rest-api.gif?raw=true)
 
 ### 8. 🕸️ ER Diagram Generator
 * **Visualize Data Models:** Generate ER diagrams from selected Salesforce objects.
