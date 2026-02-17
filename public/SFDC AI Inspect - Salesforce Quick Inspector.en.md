@@ -6,7 +6,7 @@ tags:
   - productivity
   - Developertools
 private: false
-updated_at: '2026-02-17T19:26:25+09:00'
+updated_at: '2026-02-17T19:31:36+09:00'
 id: 604c6943c7b4e4fbc8e9
 organization_url_name: null
 slide: false

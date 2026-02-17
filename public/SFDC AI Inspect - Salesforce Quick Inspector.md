@@ -6,7 +6,7 @@ tags:
   - ChromeExtension
   - 生産性向上
 private: false
-updated_at: '2026-02-17T19:26:25+09:00'
+updated_at: '2026-02-17T19:31:36+09:00'
 id: ac4db07845d840a5152d
 organization_url_name: null
 slide: false
